@@ -1,16 +1,36 @@
-# video_player
+# Video Player
 
-A new Flutter project.
+Powerful, Fast full functional native Video & Audio Player for Flutter
 
-## Getting Started
+<!-- Platform Buttons -->
+<div >
+  <h4>Andriod</h4>
+  <h4>iOS</h4>
+  <h4>Web</h4>
+  <h4>Linux</h4>
+  <h4>Mac</h4>
+  <h4>Windows</h4>
+</div>
+<div><pre>
+  For apps that need video playback:
+  
+  dependencies:
+  media_kit: ^1.1.10                             # Primary package.
+  media_kit_video: ^1.2.4                        # For video rendering.
+  media_kit_libs_video: ^1.0.4                   # Native video dependencies. 
 
-This project is a starting point for a Flutter application.
+For apps that need audio playback:
+dependencies:
+  media_kit: ^1.1.10                             # Primary package.  
+  media_kit_libs_audio: ^1.0.4                   # Native audio dependencies.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</pre></div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Screenshots
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/ffurqanuddin/media_kit_video_player/blob/master/Screenshot_1.png" width="480">
+  <img src="https://github.com/ffurqanuddin/media_kit_video_player/blob/master/Screenshot_2.png" width="480">
+</div>
